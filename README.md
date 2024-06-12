@@ -19,6 +19,6 @@ As a former data science student, I always wondered which YouTube channels were 
 
 - **Segmentation Analysis:** We categorized channels into large, medium, and small segments based on subscriber count. We then analyzed the growth and distribution of channel age within these segments to understand trends and patterns.
 
-![image](https://github.com/pallavi-analytics/YouTube-DataAnalysis/assets/102752671/60875676-e051-470b-bc58-12f21560b992)
+
 
  
